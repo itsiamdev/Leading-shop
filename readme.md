@@ -66,7 +66,7 @@ Leading-shop/
 
 ## 🌐 Live Demo
 
-Experience the live version of Leading Shop: **[https://iam269.github.io/Leading-shop/](https://iam269.github.io/Leading-shop/)**
+Experience the live version of Leading Shop: **[https://itsiamdev.github.io/Leading-shop/](https://itsiamdev.github.io/Leading-shop/)**
 
 ## 🛠️ Technologies & Dependencies
 
